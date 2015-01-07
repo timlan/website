@@ -25,7 +25,7 @@ Links you will want/need:
 <li><a href="lookup">Timlan Lookup</a> - the Timlan dictionary</li>
 <li><a href="lookup/rss.php">Timlan Lookup Feed</a> - the Timlan dictionary RSS feed</li>
 <li><a href="lookup/fixionary.php">Fixionary</a> - the Timlan fixionary</li>
-<li><a href="/blog/index.php?cat=Timlan">Timlan Blog</a> - the Timlan blog</li>
+<li><a href="//tim32.org/blog/index.php?cat=Timlan">Timlan Blog</a> - the Timlan blog</li>
 <li><a href="lookup/tcpfront.php">TCP</a> - online Timlan parser</li>
 <li><a href="docs/timlan_latest/fonti.txt">Fonti</a> - the Timlan phonology</li>
 <li><a href="docs/timlan_latest/speedyintro.txt">Speedy Intro</a> - the Timlan quick reference</li>
